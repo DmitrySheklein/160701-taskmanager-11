@@ -12,3 +12,8 @@ Thumbs.db
 node_modules/
 
 # Файлы сборки (допишите самостоятельно)
+build/
+
+# Файлы сборки
+public/bundle.js
+public/bundle.js.map
